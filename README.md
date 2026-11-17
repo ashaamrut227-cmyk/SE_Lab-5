@@ -221,9 +221,10 @@ The `reflection.md` file describes:
 
 ## 12. GitHub Repository
 
-**Repository:** [SE Lab 5 — Address Book Manager](https://github.com/Bhavani-gh/SE_Lab5_Address_Book)
+**Repository:** [SE Lab 5 — Address Book Manager](https://github.com/ashaamrut227-cmyk/SE_Lab-5)
 
-**GitHub Account:** Bhavani-gh
+**GitHub Account:** ashaamrut227-cmyk
+
 
 Git is used to track changes to the application, documentation, and analysis reports.
 
